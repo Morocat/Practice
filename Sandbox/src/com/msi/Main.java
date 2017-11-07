@@ -61,12 +61,10 @@ public class Main {
 		MyStack stack = new MyStack();
 		MySorts sorts = new MySorts();
 		Misc2 misc2 = new Misc2();
-		MyTree2 mt2 = new MyTree2();
 		MLinkedList mll2 = new MLinkedList();
 		PaginationHelper<Character> ph = new PaginationHelper<>(Arrays.asList('a', 'b', 'c', 'd', 'e', 'f'), 4);
 		JosephusSurvivor js = new JosephusSurvivor();
 		//AssemblyInterpreter ai = new AssemblyInterpreter();
-		BookParser bp = new BookParser();
 		
 		try {
 			//mt.doStuff();
